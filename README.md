@@ -26,4 +26,4 @@ This project is licensed under the GNU Lesser General Public License v3.0.
 [Commelinidium]: https://github.com/usaluz/Commelinidium-Poaceae "Commelinidium repository"
 [Scribneria]: https://github.com/usaluz/Scribneria-Poaceae "Scribneria repository"
 [Ueli]: usaluz@outlook.de "Email Ueli"
-[contribution documentation file]:  https://github.com/usaluz/Poaceae/blob/master/CONTRIBUTION.md "Contribution"
+[contribution file]: https://github.com/usaluz/Poaceae/blob/master/CONTRIBUTION.md "Contribution"
