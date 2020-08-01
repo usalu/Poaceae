@@ -1,6 +1,6 @@
 # Poaceae
-Open source project to feed Grasshopper and Rhino with additional sources.
-The aim is to create user friendly plugins and collect script components that grow over time and stay freely accessible for everyone. This way projects can evolve faster and there is more time to be creative instead of having to code everything from scratch.
+Open-source project to feed Grasshopper and Rhino with additional sources.
+The aim is to create user friendly plugins and collect script components that grow over time and remain freely accessible for everyone. This way projects can evolve faster and there is more time to be creative instead of having to code everything from scratch.
 The repository for Poaceae will contain templates to speed up the development process of child plugins. In [Scribneria] you can find script components that haven't found their way into a standalone plugin yet.
 
 ## Child projects
