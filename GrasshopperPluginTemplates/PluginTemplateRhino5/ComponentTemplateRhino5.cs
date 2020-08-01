@@ -3,7 +3,7 @@ using Grasshopper.Kernel;
 
 namespace PluginTemplateRhino5
 {
-    public class ComponentTemplateRhino5 : ButtonComponent
+    public class ComponentTemplateRhino5 : GH_Component
     {
         /// <summary>
         /// Each implementation of GH_Component must provide a public 
